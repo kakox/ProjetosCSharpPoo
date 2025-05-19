@@ -1,0 +1,14 @@
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\bin\Debug\net8.0\CompararAreaTriangulos.exe
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\bin\Debug\net8.0\CompararAreaTriangulos.deps.json
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\bin\Debug\net8.0\CompararAreaTriangulos.runtimeconfig.json
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\bin\Debug\net8.0\CompararAreaTriangulos.dll
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\bin\Debug\net8.0\CompararAreaTriangulos.pdb
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.AssemblyInfoInputs.cache
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.AssemblyInfo.cs
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.dll
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\refint\CompararAreaTriangulos.dll
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.pdb
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\CompararAreaTriangulos.genruntimeconfig.cache
+C:\Users\Kako_\Documents\ProjetosCSharpPoo\CompararAreaTriangulos\CompararAreaTriangulos\obj\Debug\net8.0\ref\CompararAreaTriangulos.dll
