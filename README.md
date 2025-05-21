@@ -5,7 +5,7 @@ Cada pasta representa um projeto independente com sua própria estrutura e funci
 
 📘 **Estes exercícios fazem parte do curso de C# COMPLETO da Udemy, ministrado pelo professor Dr. Nélio Alves.**
 
-📌 **Até o momento, foram concluídos 4 exercícios. Este repositório está em constante atualização e receberá novos projetos conforme o avanço no curso.**
+📌 **Até o momento, foram concluídos 6 exercícios. Este repositório está em constante atualização e receberá novos projetos conforme o avanço no curso.**
 
 ---
 
@@ -28,6 +28,16 @@ Lê os dados de altura e gênero de um conjunto de pessoas e exibe:
 - A maior e menor altura.
 - A média de altura das mulheres.
 - A quantidade de homens.
+
+### 5. DadosFuncionario
+Lê os dados de um funcionário (nome, salário bruto e imposto) e calcula:
+- Salário líquido.
+- Novo salário após um aumento percentual informado pelo usuário.
+
+### 6. NotasAluno
+Lê o nome de um aluno e suas três notas trimestrais. Calcula a nota final e informa:
+- Se o aluno está **aprovado** ou **reprovado**.
+- Quantos pontos faltaram, caso ele não tenha atingido a nota mínima (60).
 
 ---
 
