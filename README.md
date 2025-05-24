@@ -39,6 +39,19 @@ Lê o nome de um aluno e suas três notas trimestrais. Calcula a nota final e in
 - Se o aluno está **aprovado** ou **reprovado**.
 - Quantos pontos faltaram, caso ele não tenha atingido a nota mínima (60).
 
+### 7. MembroEstatico
+Calcula a **circunferência** e o **volume** de um círculo usando um valor estático para `Pi`.  
+🔹 **Diferencial**: Implementado diretamente no `Program.cs` (sem classe separada).
+
+### 8. MembroEstatico2
+Refatoração do projeto anterior, agora com uma classe `Calculadora` contendo métodos estáticos (`Circunferencia`, `Volume`) e a propriedade estática `Pi`.
+
+### 9. CotacaoDolar
+Conversor de dólar para reais com cálculo de IOF (6%).  
+🔹 **Destaque**:  
+- Classe `ConversorDeMoeda` com método estático `ValorEmReais`.  
+- Uso de `CultureInfo.InvariantCulture` para formatar números.  
+
 ---
 
 ## 🧠 Objetivo
